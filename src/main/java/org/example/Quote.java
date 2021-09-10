@@ -9,6 +9,7 @@ public class Quote
 {
     public static void main( String[] args )
     {
+        // Asks user for a quote, who said it and outputs it as a statement
         Scanner input = new Scanner(System.in);
 
         System.out.print("What is the quote? ");
